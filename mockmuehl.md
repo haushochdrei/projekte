@@ -1,38 +1,4 @@
 ## Projekt Mockmühl
 
 
-You can use the [editor on GitHub](https://github.com/haushochdrei/projekte/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/haushochdrei/projekte/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<iframe width="960" height="320" src="https://bimx-webviewer.graphisoft.com/viewer?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0c191cmwiOiJ0cnNpdGU6Ly8vRG9jdW1lbnRzLzgyNTBiNjEyLWIwMTktNDlhZS1iMWE0LWUzZWE0ZTE4ZGIzZCIsInRzX3R5cCI6Ikh5cGVyTW9kZWwiLCJ4X2lldiI6IjAiLCJuYmYiOjE2MTMzMzg3OTEsImV4cCI6MjEyMTM3MDc5MSwiaWF0IjoxNjQ3OTg1MTkxLCJpc3MiOiJodHRwczovL2JpbXguZ3JhcGhpc29mdC5jb20iLCJhdWQiOiJodHRwczovL2JpbXgtd2Vidmlld2VyLmdyYXBoaXNvZnQuY29tIn0.ix9mqXPwzJMsD0YtOn7TkSPcb-JLSkLkt1ojBQaVbUA&startinfullscreen=true" frameborder="0" allowfullscreen></iframe>
